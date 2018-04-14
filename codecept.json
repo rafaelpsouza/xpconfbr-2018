@@ -1,0 +1,17 @@
+{
+  "tests": "./*_test.js",
+  "timeout": 10000,
+  "output": "./output",
+  "helpers": {
+  	"WebDriverIO": {
+      "smartWait": 5000,
+      "url": "http://localhost:3000",
+      "browser": "chrome"
+    }
+  },
+  "include": {},
+  "bootstrap": "codecept-bootstrap.js",
+  "teardown": "codecept-bootstrap.js",
+  "mocha": {},
+  "name": "xpconfbr"
+}
