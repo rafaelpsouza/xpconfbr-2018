@@ -1,4 +1,4 @@
-#XPConf BR 2018
+# XPConf BR 2018
 Projeto de exemplo para a apresentação realizada na XPConf 2018
 
 ## Install
